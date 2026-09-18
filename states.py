@@ -175,3 +175,4 @@ class States():
                     print("Input was no recognized please try again.")
 
         return _cur_bet
+    
